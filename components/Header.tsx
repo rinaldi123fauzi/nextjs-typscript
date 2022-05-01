@@ -11,6 +11,9 @@ function Header() {
                 <h3>About</h3>
                 <h3>Contact</h3>
                 <h3 className="text-white-bg bg-green-600 px-4 py-1 rounded-full">Follow</h3>
+                <Link href="/sholat">
+                    <a>Sholat</a>
+                </Link>
             </div>
         </div>
 
